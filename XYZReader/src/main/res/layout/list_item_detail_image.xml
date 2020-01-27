@@ -1,0 +1,18 @@
+<FrameLayout android:id="@+id/photo_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/photo_placeholder"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--suppress AndroidLintContentDescription -->
+    <com.example.xyzreader.ui.DynamicHeightNetworkImageView
+        android:id="@+id/article_detail_image"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:scaleType="centerCrop" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="112dp"
+        android:background="@drawable/photo_background_protection" />
+
+</FrameLayout>

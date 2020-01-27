@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/theme_primary</item>
+
+        <!-- 0 -->
+        <!-- enable window content transitions -->
+        <item name="android:windowActivityTransitions">true</item>
+
+        <!-- 0 -->
+        <!-- specify enter and exit transitions -->
+        <item name="android:windowExitTransition">@transition/grid_exit_transition</item>
+        <item name="android:windowEnterTransition">@transition/image_shared_element_transition</item>
+
+    </style>
+
+    <style name="Theme.Bacon.Detail">
+
+    </style>
+
+</resources>
