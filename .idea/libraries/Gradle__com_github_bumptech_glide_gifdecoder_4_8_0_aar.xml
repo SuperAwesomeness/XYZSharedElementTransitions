@@ -1,11 +1,16 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.bumptech.glide:gifdecoder:4.8.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d069cf91f6edb16c2afba27861555a67/jetified-gifdecoder-4.8.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9260cf39f5f3ac15ffe748b8e571d1d7/jetified-gifdecoder-4.8.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60a8a840c7afdb52dbfa0cd55823672d/jetified-gifdecoder-4.8.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d069cf91f6edb16c2afba27861555a67/jetified-gifdecoder-4.8.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d069cf91f6edb16c2afba27861555a67/jetified-gifdecoder-4.8.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9260cf39f5f3ac15ffe748b8e571d1d7/jetified-gifdecoder-4.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9260cf39f5f3ac15ffe748b8e571d1d7/jetified-gifdecoder-4.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d35977703687922b7931b5008fd3f0fa/jetified-gifdecoder-4.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60a8a840c7afdb52dbfa0cd55823672d/jetified-gifdecoder-4.8.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60a8a840c7afdb52dbfa0cd55823672d/jetified-gifdecoder-4.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60a8a840c7afdb52dbfa0cd55823672d/jetified-gifdecoder-4.8.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.8.0/efaa5fafad842304486e8d5c6a77208b8531e25e/gifdecoder-4.8.0-javadoc.jar!/" />
